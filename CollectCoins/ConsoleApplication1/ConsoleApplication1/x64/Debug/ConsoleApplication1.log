@@ -1,0 +1,38 @@
+﻿  Application.cpp
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\application.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Camera.cpp
+  Coins.cpp
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\coins.cpp(37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\coins.cpp(38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\coins.cpp(42): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\coins.cpp(43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\coins.cpp(51): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\coins.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\coins.cpp(56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Entities.cpp
+  Font.cpp
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\font.cpp(21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\font.cpp(22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GameMap.cpp
+  InputManager.cpp
+  Main.cpp
+  Player.cpp
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(49): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(50): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(54): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(55): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(56): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\player.cpp(57): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Random.cpp
+  ResourceManager.cpp
+  ScreenManager.cpp
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\screenmanager.cpp(50): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Screen_GameWorld.cpp
+  Screen_IntroMenu.cpp
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\screen_intromenu.cpp(66): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+g:\projects\c++\collectcoins\consoleapplication1\consoleapplication1\screen_intromenu.cpp(73): warning C4244: '=': conversion from 'unsigned __int64' to 'float', possible loss of data
+  Generating Code...
+Application.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  ConsoleApplication1.vcxproj -> G:\Projects\C++\CollectCoins\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

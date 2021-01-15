@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Application Center">
+      <UniqueIdentifier>{037046bf-f0cf-4927-a49c-224596b581d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers and Code Banks">
+      <UniqueIdentifier>{d79ef417-a36c-4c0a-aedf-9b638edb6e44}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Other Utilities">
+      <UniqueIdentifier>{8b38d24d-fb2d-4a7b-8c50-2634ab48466e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens/Scenes">
+      <UniqueIdentifier>{d26c261f-1f7b-4166-aec0-d581bcabf373}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Application Center">
+      <UniqueIdentifier>{f4b94bb2-187d-4432-b4e8-51d1cb93eec2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers and Code Banks">
+      <UniqueIdentifier>{44723fc6-54fa-483a-905b-dc1b11527ecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Other Utilities">
+      <UniqueIdentifier>{fcef9f65-88ac-437c-8f63-c66a0e9e9b20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Screens/Scenes">
+      <UniqueIdentifier>{2baaa216-8161-4547-b1fb-f67f10daf77c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Screens/Scenes\Game Map Objects">
+      <UniqueIdentifier>{dd814740-6032-4cf6-ac3c-630c351b894f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens/Scenes\Game Map Objects">
+      <UniqueIdentifier>{5075e50e-71a1-4f8d-98b1-5af591cc0521}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h">
+      <Filter>Header Files\Application Center</Filter>
+    </ClInclude>
+    <ClInclude Include="CleanUp.h">
+      <Filter>Header Files\Application Center</Filter>
+    </ClInclude>
+    <ClInclude Include="FileManager.h">
+      <Filter>Header Files\Managers and Code Banks</Filter>
+    </ClInclude>
+    <ClInclude Include="InputManager.h">
+      <Filter>Header Files\Managers and Code Banks</Filter>
+    </ClInclude>
+    <ClInclude Include="ScreenManager.h">
+      <Filter>Header Files\Managers and Code Banks</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>Header Files\Other Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Header Files\Other Utilities</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Coins.h">
+      <Filter>Header Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Entities.h">
+      <Filter>Header Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="GameMap.h">
+      <Filter>Header Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Header Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseScreen.h">
+      <Filter>Header Files\Screens/Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen_GameWorld.h">
+      <Filter>Header Files\Screens/Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Screen_IntroMenu.h">
+      <Filter>Header Files\Screens/Scenes</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files\Application Center</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files\Application Center</Filter>
+    </ClCompile>
+    <ClCompile Include="InputManager.cpp">
+      <Filter>Source Files\Managers and Code Banks</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>Source Files\Managers and Code Banks</Filter>
+    </ClCompile>
+    <ClCompile Include="ScreenManager.cpp">
+      <Filter>Source Files\Managers and Code Banks</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>Source Files\Other Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Source Files\Other Utilities</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Coins.cpp">
+      <Filter>Source Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Entities.cpp">
+      <Filter>Source Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="GameMap.cpp">
+      <Filter>Source Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Source Files\Screens/Scenes\Game Map Objects</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen_GameWorld.cpp">
+      <Filter>Source Files\Screens/Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Screen_IntroMenu.cpp">
+      <Filter>Source Files\Screens/Scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
